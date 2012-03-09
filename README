@@ -1,0 +1,4 @@
+BLUGMon-Remote is a daemon that runs on a monitored server. 
+It connects runs configured commands to check and monitor 
+hardware and software. It logs the results to BLUGMon-Hub.
+
